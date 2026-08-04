@@ -1,6 +1,6 @@
 # Running Analytics Dashboard
 
-A single-file, browser-based dashboard for exploring running data — built to track training load and pacing consistency during marathon training.
+A single-file, browser-based dashboard for exploring running data — built to track training load and pacing consistency. I designed this specifically for my marathon training. But you can use it for any exported run-data from strava.
 
 **[Live demo](#)** — enable GitHub Pages on this repo, then link it here (see setup notes below).
 
@@ -47,6 +47,3 @@ Vanilla JavaScript, [Plotly.js](https://plotly.com/javascript/) for charts, [Pap
 
 Personal training tool, actively used during marathon prep. Shared here as an example of fast prototyping and turning raw sensor data into decision-useful metrics for a non-technical audience — the same instinct behind [Vis4Cat](https://github.com/khatamirad/vis4cat), applied to my own training instead of catalysis data.
 
-## License
-
-MIT — see [LICENSE](LICENSE).
